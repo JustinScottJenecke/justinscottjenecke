@@ -1,9 +1,14 @@
 ## Hi I'm Justin 
 
-### Junior Developer currently working as a Code Coach, Course Designer and Student Manager at CodeSpace Academy.
+### About Me 
 
-<b> About Me </b>
+<b> Career and What I am doing </b>
+I am Junior Developer currently working as a Code Coach, Course Designer and Student Manager at CodeSpace Academy.
+
+<b> Academics </b>
 I studied a Diploma in Applications Development at Cape Peninsula University of Technology and the career path that I want to pursue in Tech is that of a Systems Developer or Senior Developer.
+
+<b> Career Plans </b>
 The main reason for me wanting to pursue this type of role for my future career is because of how I learnt to solve and create software solutions during University, the role I played in most of my Uni and personal projects, and finally becuase I enjoy the logical and problem solving aspect involved with Systems design.
 
 <hr>
