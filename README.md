@@ -11,6 +11,8 @@ The main reason for me wanting to pursue this type of role for my future career 
 
 ## Project Manifest:
 
+<br>
+
 ### Full-Stack Projects:
 
 
