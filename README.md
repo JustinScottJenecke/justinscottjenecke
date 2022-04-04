@@ -37,7 +37,12 @@
 ### Frontend Projects:
 
 <li>
-  Vanilla JavaScript Todo App : https://github.com/JustinScottJenecke/csa-js-todo
+  Vanilla JavaScript Todo App : https://github.com/JustinScottJenecke/csa-js-todo <br>
+  Preview : https://justinscottjenecke.github.io/csa-js-todo/
+</li>
+<li>
+  Frontend for Hotel Booking App : https://github.com/JustinScottJenecke/csa-hotel-booking-site <br>
+  Preview : https://justinscottjenecke.github.io/csa-hotel-booking-site/
 </li>
 
 
