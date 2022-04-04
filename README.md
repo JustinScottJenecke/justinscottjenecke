@@ -31,7 +31,12 @@
 <br>
 
 **1. Spring-Boot Basic API - Tutorspace**
-  - Repository: https://github.com/JustinScottJenecke/cput-tutorspace-api
+  - Repository : https://github.com/JustinScottJenecke/cput-tutorspace-api
+
+<br>
+
+**2. Java Collections Interface Practice**
+  - Repository : https://github.com/JustinScottJenecke/cput-java-collections-interface-tdd
 
 <br>
 <hr>
