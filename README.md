@@ -38,9 +38,9 @@
 
 <br>
 
-  **1. Vanilla JavaScript Todo App**
-    - Repository : https://github.com/JustinScottJenecke/csa-js-todo <br>
-    - Preview : https://justinscottjenecke.github.io/csa-js-todo/
+**1. Vanilla JavaScript Todo App**
+   - Repository : https://github.com/JustinScottJenecke/csa-js-todo <br>
+   - Preview : https://justinscottjenecke.github.io/csa-js-todo/
 
 <br>
 
