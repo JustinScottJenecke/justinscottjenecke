@@ -36,6 +36,10 @@
 
 ### Frontend Projects:
 
+<li>
+  Vanilla JavaScript Todo App : https://github.com/JustinScottJenecke/csa-js-todo
+</li>
+
 
 
 
