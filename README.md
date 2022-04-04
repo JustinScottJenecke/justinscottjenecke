@@ -36,18 +36,15 @@
 
 ### Frontend Projects:
 
-<li>
-  Vanilla JavaScript Todo App : https://github.com/JustinScottJenecke/csa-js-todo <br>
-  Preview : https://justinscottjenecke.github.io/csa-js-todo/
-</li>
-<li>
-  Frontend for Hotel Booking App : https://github.com/JustinScottJenecke/csa-hotel-booking-site <br>
-  Preview : https://justinscottjenecke.github.io/csa-hotel-booking-site/
-</li>
+Vanilla JavaScript Todo App
+  - Repository : https://github.com/JustinScottJenecke/csa-js-todo <br>
+  - Preview : https://justinscottjenecke.github.io/csa-js-todo/
 
+<br>
 
-
-
+Frontend for Hotel Booking App
+  - Repository : https://github.com/JustinScottJenecke/csa-hotel-booking-site <br>
+  - Preview : https://justinscottjenecke.github.io/csa-hotel-booking-site/
 
 <!--
 **JustinScottJenecke/justinscottjenecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
