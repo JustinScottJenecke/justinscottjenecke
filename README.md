@@ -62,6 +62,11 @@
   - Repository : https://github.com/JustinScottJenecke/csa-hotel-booking-site <br>
   - Preview : https://justinscottjenecke.github.io/csa-hotel-booking-site/
 
+<br>
+
+**3. Portfolio Website**
+  - Repository : https://github.com/JustinScottJenecke/portfolio
+  - Preview : https://justinscottjenecke.github.io/portfolio/
 <!--
 **JustinScottJenecke/justinscottjenecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
