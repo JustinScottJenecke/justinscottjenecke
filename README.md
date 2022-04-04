@@ -28,14 +28,20 @@
 
 ### Backend Projects:
 
+**1. CPUT Hotel Booking System**
+  - About : Spring-Boot RESTful web service, backend only 
+  - Repository : https://github.com/JustinScottJenecke/cput-hotel-booking-system
+
 <br>
 
-**1. Spring-Boot Basic API - Tutorspace**
+**2. Spring-Boot Basic API - Tutorspace**
+  - About : Basic API and in memory database for practicing REST Controller implementation in Spring-Boot
   - Repository : https://github.com/JustinScottJenecke/cput-tutorspace-api
 
 <br>
 
-**2. Java Collections Interface Practice**
+**3. Java Collections Interface Practice**
+  - About : Basic Java Applet to practice working with Java Collections Interface and implementations (maps, sets, arrayList, etc.)
   - Repository : https://github.com/JustinScottJenecke/cput-java-collections-interface-tdd
 
 <br>
