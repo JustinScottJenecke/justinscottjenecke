@@ -1,6 +1,6 @@
 # Hi I'm Justin 
 
-## About Me 
+# About Me 
 
 <b> Career and What I am doing: </b> <br>
   I am Junior Developer currently working as a Code Coach, Course Designer and Student Manager at CodeSpace Academy.
@@ -13,22 +13,20 @@
 
 <hr>
 
-## How to contact me:
+# How to contact me:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justinscottjenecke.github.io/)
 <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-scott-jenecke/)
 
-<hr>
+<br>
 <br>
 
-## Project Manifest:
+# Project Manifest:
 
 <br>
 
 ### Full-Stack Projects:
-
-
 
 <br>
 
@@ -71,6 +69,8 @@
 **3. Portfolio Website**
   - Repository : https://github.com/JustinScottJenecke/portfolio
   - Preview : https://justinscottjenecke.github.io/portfolio/
+
+
 <!--
 **JustinScottJenecke/justinscottjenecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
