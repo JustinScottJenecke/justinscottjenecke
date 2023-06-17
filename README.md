@@ -1,6 +1,6 @@
-## Hi I'm Justin 
+# Hi I'm Justin 
 
-### About Me 
+## About Me 
 
 <b> Career and What I am doing: </b> <br>
   I am Junior Developer currently working as a Code Coach, Course Designer and Student Manager at CodeSpace Academy.
@@ -12,9 +12,8 @@
   The main reason for me wanting to pursue this type of role for my future career is because of how I learnt to solve and create software solutions during University. I also enjoy the logical and problem solving aspect involved with Systems design.
 
 <hr>
-<br>
 
-### How to contact me:
+## How to contact me:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justinscottjenecke.github.io/)
 <br>
@@ -31,8 +30,6 @@
 
 
 
-<br>
-<hr>
 <br>
 
 ### Backend Projects:
@@ -53,8 +50,6 @@
   - About : Basic Java Applet to practice working with Java Collections Interface and implementations (maps, sets, arrayList, etc.)
   - Repository : https://github.com/JustinScottJenecke/cput-java-collections-interface-tdd
 
-<br>
-<hr>
 <br>
 
 ### Frontend Projects:
