@@ -1,19 +1,9 @@
-# Hi I'm Justin 
+# Hi I'm Justin 🔰
 
-# About Me 
+<br>
 
-<b> Career and What I am doing: </b> <br>
-  I am Junior Developer currently working as a Code Coach, Course Designer and Student Manager at CodeSpace Academy.
-
-<b> Academics: </b> <br>
-  I studied a Diploma in Applications Development at Cape Peninsula University of Technology and the career path that I want to pursue in Tech is that of an Application Developer, Senior Developer or Project Manager.
-
-<b> Career Plans: </b> <br>
-  The main reason for me wanting to pursue this type of role for my future career is because of how I learnt to solve and create software solutions during University. I also enjoy the logical and problem solving aspect involved with Systems design.
-
-<hr>
-
-# How to contact me:
+<!-- Contact Section -->
+## 📪 Contact Information:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justinscottjenecke.github.io/)
 <br>
@@ -22,7 +12,24 @@
 <br>
 <br>
 
-# Project Manifest:
+<!-- About Section -->
+## 💪 About Me 
+
+<b> Career and What I am doing: </b> <br>
+- I am currently working as at **CodeSpace Academy** a **Code Coach** where I support and validate the learning of juniors taking their first steps towards a career in tech, and I am also a **Course Designer** where I work on curriculum updates, edits, and refactors.
+
+<b> Academics: </b> <br>
+- I studied a Diploma in Applications Development at Cape Peninsula University of Technology and the career path that I want to pursue in Tech is that of an Application Developer in the enterprise or web development space.
+
+<b> Current Plans: </b> <br>
+- Some of the technologies I am playing around include ASP .Net Core since I think the ecosystem, tooling, and community around C# are very good.
+- I am also learning significantly more about JavaScript thanks to the tech stack we use at CodeSpace, and I am exploring frameworks other than Vue to increase long-term career prospects.
+
+<br>
+<br>
+
+<!-- Projects Section -->
+## ♻️ Project Manifest:
 
 <br>
 
