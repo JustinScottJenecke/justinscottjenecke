@@ -25,7 +25,9 @@
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscottjenecke&layout=donut)](https://github.com/justinscottjenecke/github-readme-stats)
             
 <br>
