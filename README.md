@@ -13,6 +13,13 @@
 <br>
 
 <!-- About Section -->
+## 📟 Skills & Technologies
+
+
+<br>
+<br>
+
+<!-- About Section -->
 ## 💪 About Me 
 
 <b> Career and What I am doing: </b> <br>
