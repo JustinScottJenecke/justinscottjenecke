@@ -15,7 +15,7 @@
 <!-- About Section -->
 ## 📟 Skills & Technologies
 
-<b> Tech: </b>
+<b> Tech: </b> <br>
 <div style="display: flex;">
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -29,7 +29,7 @@
 
 <br>
 
-<b> Usage: </b>
+<b> Usage: </b> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscottjenecke&layout=donut)](https://github.com/justinscottjenecke/github-readme-stats)
             
 <br>
